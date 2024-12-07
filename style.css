@@ -1,0 +1,20 @@
+h1{
+    color:rgb(24, 208, 103);
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: blueviolet;
+    
+}
+div{
+    display:flex;
+}
+p{
+    color: blue;
+    font-style: italic;
+    font: bolder;
+}
+body{
+    background: #6e3131;
+    
+}
